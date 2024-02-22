@@ -326,6 +326,8 @@ footer{
     border: none;
     cursor: pointer;
     display: none;
+    
+    
 }
 
 .menu-items {
@@ -336,15 +338,13 @@ footer{
     background-color: #3498db;
     padding: 10px;
     border-radius: 5px;
-    
+    width:100% ;
+   
 }
 
-.menu-items a {
-    display: block;
-    color: white;
-    text-decoration: none;
-    padding: 5px 0;
-}
+
+
+
 
 
 
@@ -369,10 +369,7 @@ footer{
         padding-right: 10px;
 
     }
-    }
-
-    
-   
+}
 
 @media(max-width: 780px) {
 
@@ -412,7 +409,7 @@ footer{
         border: none;
         cursor: pointer;
        display: block;
-       left: 100px;
+       padding: 0px 300px 0px 100px;
        
     }
      
