@@ -402,6 +402,10 @@ footer{
         
     }
 
+    .menu-items {
+        text-align: center;
+    }
+
 
     .menu-button {
         font-size: 24px;
