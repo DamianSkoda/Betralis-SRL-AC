@@ -98,7 +98,7 @@ h1{
 .logo{
     height: 64px;
     margin-left: 3rem;
-    padding: 0;
+    padding: 0px 13px;
     
 }  
 
@@ -413,7 +413,7 @@ footer{
         border: none;
         cursor: pointer;
        display: block;
-       padding:0px 280px;
+       padding:0px 290px;
        
     }
      
